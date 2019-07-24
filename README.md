@@ -1,2 +1,2 @@
-# findding-doners-for-charity-ML
+# finding-doners-for-charity-ML
 Udacity ML project
